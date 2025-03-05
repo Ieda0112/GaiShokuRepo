@@ -1,0 +1,6 @@
+[submodule "flask-tutorial"]
+	path = flask-tutorial
+	url = https://github.com/Ieda0112/flask-tutorial.git
+[submodule "my-remix-app"]
+	path = my-remix-app
+	url = https://github.com/Ieda0112/my-remix-app.git
